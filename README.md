@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @luiscielak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-luiscielak/luiscielak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a product designer building tools that make people's jobs easier. 
+- 🌱 I’m currently learning generative art and digital fabrication
+- 💞️ I’m looking to collaborate on User Experience, User Interface, and Data Visualization projects
+- 📫 You can find my professional work at [sqdesignlabs.com](https://sqdesignlabs.com/) and personal work at [luiscielak.com](https://www.luiscielak.com/)
